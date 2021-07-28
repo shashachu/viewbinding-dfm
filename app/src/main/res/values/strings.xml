@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">viewbindingmodules</string>
+    <string name="title_dynamicfeature">Module 1</string>
+    <string name="title_dynamicfeature2">Module 2</string>
+</resources>
